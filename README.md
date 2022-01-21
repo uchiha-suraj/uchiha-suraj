@@ -51,7 +51,7 @@
 ## 📊 My Github Stats
 
   <p align="center">
-    <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=uchiha-suraj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="53%" align="right"/></a>
+    <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=uchiha-suraj&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width="57%" align="right"/></a>
     <a href="https://github.com/uchiha-suraj/github-readme-stats"><img alt="Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uchiha-suraj&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="43%" /></a>
   </p>
   <br/>
