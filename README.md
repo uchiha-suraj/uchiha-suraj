@@ -14,10 +14,12 @@
 
 - 📫 How to reach me **suraj.developer.777@gmail.com**
 
-- ⚡ Fun Facts : 
+- ⚡ About Me : 
+    - **keen observer. ✨**
+    - **always appreciate every forms of art. 🎭**
+    - **love pets. 🐼**
     - **I am open to read and learn anything, which interest me. 😅**
-    - **I love pets. 🐼**   
-    - **I like to read Books, watch Documentry, read Manga, watch Anime and good Movies. 😉** 
+    - **like to read Books, watch Documentary, read Manga, watch Anime and Movies. 😉** 
     
 ## 🚀 Languages and Tools:
 
