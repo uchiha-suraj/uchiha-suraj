@@ -16,7 +16,7 @@
 
 - ⚡ About Me : 
     - **keen observer. ✨**
-    - **always appreciate every forms of art. 🎭**
+    - **always appreciate art. 🎭**
     - **love pets. 🐼**
     - **I am open to read and learn anything, which interest me. 😅**
     - **like to read Books, watch Documentary, read Manga, watch Anime and Movies. 😉** 
