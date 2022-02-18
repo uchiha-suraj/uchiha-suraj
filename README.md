@@ -1,6 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suraj</h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+</p>
+
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
@@ -73,12 +76,18 @@
 <br/>
 <br/>
 
-## Connect with me:
+<h2>
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+  How to reach me
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+</h2>
+
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/suraj-adhikary-851960178/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
-<!-- <a href = ""><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/></a> -->
 <a href = "https://www.quora.com/profile/Suraj-Adhikary-2"><img src="https://img.icons8.com/doodle/50/000000/quora--v1.png"/></a>
-<!-- <a href = "https://www.instagram.com/suraj_the_noob/"><img src="https://img.icons8.com/stickers/50/000000/instagram-new--v2.png"/></a> -->
+    
+<!-- <a href = ""><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/></a> -->
+<!-- <a href = ""><img src="https://img.icons8.com/stickers/50/000000/instagram-new--v2.png"/></a> -->
 
 </p>
