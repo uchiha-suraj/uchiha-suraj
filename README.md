@@ -13,9 +13,9 @@
 
 - <h4>🌱 I’m currently learning **PostgreSQL and NextJS.** </h4>
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- <h4>👯 I’m looking to collaborate on **OpenSource Projects** </h4>
 
-- 📫 How to reach me **suraj.developer.777@gmail.com**
+- <h4>📫 How to reach me **suraj.developer.777@gmail.com** </h4>
 
 - ⚡ About Me : 
     - **keen observer. ✨**
