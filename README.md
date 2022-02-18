@@ -9,9 +9,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on my **Blogging site.**
+- <h4>🔭 I’m currently working on my **Blogging site.** </h4>
 
-- 🌱 I’m currently learning **PostgreSQL and NextJS.**
+- <h4>🌱 I’m currently learning **PostgreSQL and NextJS.** </h4>
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
