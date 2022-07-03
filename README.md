@@ -12,9 +12,9 @@
 
 
 ## 🙋‍♂️ About Me
-
-  - 👯 Looking to collaborate on **OpenSource Projects**
-  - 📫 How to reach me **suraj.developer.777@gmail.com**
+  - 👯 Looking to collaborate on **OpenSource Projects**.
+  - 📫 How to reach me **suraj.developer.777@gmail.com**.
+  - 📖 Read my blogs [here](https://medium.com/@suraj.developer.777).
 
   - ⚡ About Myself : 
       - **keen observer. ✨**
