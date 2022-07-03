@@ -73,20 +73,27 @@
 <br/>
 <br/>
 
-<br/>
-<br/>
+<h2>
+  📜 My Blogs
+</h2>
+
+<p align="center">
+
+<a href = "https://medium.com/@suraj.developer.777"><img src="https://img.icons8.com/stickers/50/000000/medium-logo.png"/></a>
+
+</p>
 
 <h2>
-  How to reach me
+  📮 How to reach me
   <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
 </h2>
 
 <p align="center">
 
-<a href = "https://www.linkedin.com/in/suraj-adhikary-851960178/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
-<!-- <a href = ""><img src="https://img.icons8.com/doodle/50/000000/quora--v1.png"/></a>
-    
-<a href = ""><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/></a>
-<a href = ""><img src="https://img.icons8.com/stickers/50/000000/instagram-new--v2.png"/></a> -->
+  <a href = "https://stackoverflow.com/users/15145736/suraj-adhikary"><img src="https://img.icons8.com/stickers/50/000000/stackoverflow.png"/></a>
+  <a href = "https://join.skype.com/invite/uT301b9CpF7F"><img src="https://img.icons8.com/dusk/50/000000/skype.png"/></a>
+  <a href = "https://www.linkedin.com/in/suraj-adhikary-851960178/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+  <a href = "https://twitter.com/suraj_the_noob"><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/></a>
+  <a href = "https://www.quora.com/profile/Suraj-1483"><img src="https://img.icons8.com/doodle/50/000000/quora--v1.png"/></a>
 
 </p>
