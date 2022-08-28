@@ -20,7 +20,7 @@
       - **keen observer. ✨**
       - **always appreciate art. 🎭**
       - **love pets. 🐼**
-      - **Open to read and learn anything I'm interested in. 😅**
+      - **open to read and learn anything, which interests me. 😅**
       - **like to read Books, watch Documentary, read Manga, watch Anime and Movies. 😉** 
     
 ## 🚀 Languages and Tools:
