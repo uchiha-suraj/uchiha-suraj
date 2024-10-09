@@ -71,5 +71,6 @@
   <a href = "https://www.linkedin.com/in/suraj-adhikary-851960178/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
   <a href = "https://twitter.com/suraj_the_noob"><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/></a>
   <a href = "https://www.quora.com/profile/Suraj-1483"><img src="https://img.icons8.com/doodle/50/000000/quora--v1.png"/></a>
+  <a href = "https://www.instagram.com/_suraj_adhikary_"><img src="https://vectorified.com/image/instagram-icon-transparent-vector-12.jpg" alt="Instagram Icon" width="55" /></a>
 
 </p>
