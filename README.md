@@ -20,8 +20,8 @@
   <a href="mailto:suraj.developer.777@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://medium.com/@suraj.developer.777">
-    <img src="https://img.shields.io/badge/Medium-Blog-12100E?style=flat&logo=medium&logoColor=white" />
+  <a href="https://suraj-tech-blog.vercel.app/">
+    <img src="https://img.shields.io/badge/Blog-Read%20my%20blogs-1F2937?style=flat&logo=bookstack&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/15145736/suraj-adhikary">
     <img src="https://img.shields.io/badge/StackOverflow-Profile-F58025?style=flat&logo=stackoverflow&logoColor=white" />
@@ -36,7 +36,7 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 
 - 🔭 Currently building **React.js & Next.js** web applications, along with **React Native cross-platform apps**.
 - 🌱 Currently learning **Kotlin & Android Development**, and native mobile architecture.
-- 📖 I occasionally write about frontend engineering on [Medium](https://medium.com/@suraj.developer.777).
+- 📖 I write notes and articles on software developement at [suraj-tech-blog](https://suraj-tech-blog.vercel.app/).
 - 🤝 Open to discussing frontend architecture, backend development, and new opportunities.
 
 ---
@@ -104,6 +104,19 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 | **[Photo Bucket](https://github.com/uchiha-suraj/photo-bucket-react-sanity)** | Social media photo-sharing platform with a fully responsive masonry-grid UI, Google auth, and a Sanity-powered CMS/admin panel for CRUD content management | React, Tailwind CSS, Sanity |
 | **[NextJS + GraphQL Blog](https://github.com/uchiha-suraj/NextJs-GraphQL-blog-site)** | Server-side rendered blogging platform with content fully managed through a Graph CMS panel (posts, categories, comments) via a GraphQL data layer | Next.js, GraphQL, GraphCMS, Tailwind CSS |
 | **[Budget Tracker](https://github.com/uchiha-suraj/budget-tracker)** | Personal finance tracker with real-time income/expense charts and a voice-input feature for hands-free entry logging | React, Chart.js, Material-UI, Speechly |
+
+---
+
+### ✍️ Blog
+
+<p align="center">
+  <a href="https://suraj-tech-blog.vercel.app/">
+    <img src="https://img.shields.io/badge/Primary%20Blog-Notes%20%26%20write--ups-1F2937?style=for-the-badge&logo=bookstack&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@suraj.developer.777">
+    <img src="https://img.shields.io/badge/Medium-Older%20articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 ---
 
