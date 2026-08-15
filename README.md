@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
+  <a href="https://suraj-tech.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-suraj--tech.vercel.app-6E56CF?style=flat&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/suraj-adhikary-851960178/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -29,9 +32,7 @@
 
 ### 🙋 About Me
 
-Software Engineer with experience building **scalable web and mobile applications**. I specialize in creating high-performance, user-centric solutions using modern frontend technologies, while collaborating closely with backend teams to deliver seamless digital experiences.
-
-I've worked on responsive web apps, mobile apps, API integrations, and performance optimization — helping businesses improve user engagement and product reliability. Passionate about clean code, scalable architecture, and continuously learning new technologies.
+Software Engineer building high-performance, user-centric web & mobile apps. Passionate about clean code and scalable architecture.
 
 - 🔭 Currently building **React.js & Next.js** web applications, along with **React Native cross-platform apps**.
 - 🌱 Currently learning **Kotlin & Android Development**, and native mobile architecture.
