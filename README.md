@@ -112,6 +112,6 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 <p align="center">
   <a href="https://www.linkedin.com/in/suraj-adhikary-851960178/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/45/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
   <a href="https://stackoverflow.com/users/15145736/suraj-adhikary"><img src="https://img.icons8.com/stickers/50/000000/stackoverflow.png"/></a>
-  <a href="https://twitter.com/suraj_the_noob"><img src="https://img.icons8.com/stickers/50/000000/twitter.png"/></a>
+  <a href="https://x.com/theErrorHandler"><img height="55" width="55" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.quora.com/profile/Suraj-1483"><img src="https://img.icons8.com/doodle/50/000000/quora--v1.png"/></a>
 </p>
