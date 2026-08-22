@@ -36,7 +36,7 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 
 - 🔭 Currently building **React.js & Next.js** web applications, along with **React Native cross-platform apps**.
 - 🌱 Currently learning **Kotlin & Android Development**, and native mobile architecture.
-- 📖 I write notes and articles on software developement at [suraj-tech-blog](https://notes.heysuraj.dev/).
+- 📖 I write notes and articles on software developement [here](https://notes.heysuraj.dev/).
 - 🤝 Open to discussing frontend architecture, backend development, and new opportunities.
 
 ---
@@ -114,7 +114,7 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
     <img src="https://img.shields.io/badge/Primary%20Blog-Notes%20%26%20write--ups-1F2937?style=for-the-badge&logo=bookstack&logoColor=white" />
   </a>
   <a href="https://medium.com/@suraj.developer.777">
-    <img src="https://img.shields.io/badge/Medium-Older%20articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+    <img src="https://img.shields.io/badge/Medium-Other%20articles-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
 
