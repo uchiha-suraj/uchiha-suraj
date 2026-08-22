@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://suraj-tech.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-suraj--tech.vercel.app-6E56CF?style=flat&logo=vercel&logoColor=white" />
+  <a href="https://www.heysuraj.dev/">
+    <img src="https://img.shields.io/badge/Portfolio-heysuraj.dev-6E56CF?style=flat&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/suraj-adhikary-851960178/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -20,7 +20,7 @@
   <a href="mailto:suraj.developer.777@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://suraj-tech-blog.vercel.app/">
+  <a href="https://notes.heysuraj.dev/">
     <img src="https://img.shields.io/badge/Blog-Read%20my%20blogs-1F2937?style=flat&logo=bookstack&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/15145736/suraj-adhikary">
@@ -36,7 +36,7 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 
 - 🔭 Currently building **React.js & Next.js** web applications, along with **React Native cross-platform apps**.
 - 🌱 Currently learning **Kotlin & Android Development**, and native mobile architecture.
-- 📖 I write notes and articles on software developement at [suraj-tech-blog](https://suraj-tech-blog.vercel.app/).
+- 📖 I write notes and articles on software developement at [suraj-tech-blog](https://notes.heysuraj.dev/).
 - 🤝 Open to discussing frontend architecture, backend development, and new opportunities.
 
 ---
@@ -99,18 +99,18 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Photo Bucket](https://github.com/uchiha-suraj/photo-bucket-react-sanity)** | Social media photo-sharing platform with a fully responsive masonry-grid UI, Google auth, and a Sanity-powered CMS/admin panel for CRUD content management | React, Tailwind CSS, Sanity |
-| **[NextJS + GraphQL Blog](https://github.com/uchiha-suraj/NextJs-GraphQL-blog-site)** | Server-side rendered blogging platform with content fully managed through a Graph CMS panel (posts, categories, comments) via a GraphQL data layer | Next.js, GraphQL, GraphCMS, Tailwind CSS |
-| **[Budget Tracker](https://github.com/uchiha-suraj/budget-tracker)** | Personal finance tracker with real-time income/expense charts and a voice-input feature for hands-free entry logging | React, Chart.js, Material-UI, Speechly |
+| Project                                                                               | Description                                                                                                                                                | Stack                                    |
+| ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **[Photo Bucket](https://github.com/uchiha-suraj/photo-bucket-react-sanity)**         | Social media photo-sharing platform with a fully responsive masonry-grid UI, Google auth, and a Sanity-powered CMS/admin panel for CRUD content management | React, Tailwind CSS, Sanity              |
+| **[NextJS + GraphQL Blog](https://github.com/uchiha-suraj/NextJs-GraphQL-blog-site)** | Server-side rendered blogging platform with content fully managed through a Graph CMS panel (posts, categories, comments) via a GraphQL data layer         | Next.js, GraphQL, GraphCMS, Tailwind CSS |
+| **[Budget Tracker](https://github.com/uchiha-suraj/budget-tracker)**                  | Personal finance tracker with real-time income/expense charts and a voice-input feature for hands-free entry logging                                       | React, Chart.js, Material-UI, Speechly   |
 
 ---
 
 ### ✍️ Blog
 
 <p align="center">
-  <a href="https://suraj-tech-blog.vercel.app/">
+  <a href="https://notes.heysuraj.dev/">
     <img src="https://img.shields.io/badge/Primary%20Blog-Notes%20%26%20write--ups-1F2937?style=for-the-badge&logo=bookstack&logoColor=white" />
   </a>
   <a href="https://medium.com/@suraj.developer.777">
