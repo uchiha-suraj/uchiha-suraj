@@ -57,10 +57,12 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
 </p>
 
 **Backend**
@@ -68,9 +70,11 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/Microservices-4479A1?style=flat&logo=serverless&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white" />
 </p>
 
 **Mobile**
@@ -84,15 +88,21 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
 </p>
 
-**Tools**
+**Tools & Testing**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat&logo=testinglibrary&logoColor=white" />
 </p>
 
 ---
@@ -101,9 +111,9 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 
 | Project                                                                               | Description                                                                                                                                                | Stack                                    |
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **[OpsPulse](https://github.com/uchiha-suraj/OpsPulse)**                              | Production-style incident management dashboard for monitoring service health, coordinating responders, and managing incident timelines with realistic mock APIs and local persistence | React, TypeScript, Vite, MSW, Zod |
 | **[Photo Bucket](https://github.com/uchiha-suraj/photo-bucket-react-sanity)**         | Social media photo-sharing platform with a fully responsive masonry-grid UI, Google auth, and a Sanity-powered CMS/admin panel for CRUD content management | React, Tailwind CSS, Sanity              |
 | **[NextJS + GraphQL Blog](https://github.com/uchiha-suraj/NextJs-GraphQL-blog-site)** | Server-side rendered blogging platform with content fully managed through a Graph CMS panel (posts, categories, comments) via a GraphQL data layer         | Next.js, GraphQL, GraphCMS, Tailwind CSS |
-| **[Budget Tracker](https://github.com/uchiha-suraj/budget-tracker)**                  | Personal finance tracker with real-time income/expense charts and a voice-input feature for hands-free entry logging                                       | React, Chart.js, Material-UI, Speechly   |
 
 ---
 
