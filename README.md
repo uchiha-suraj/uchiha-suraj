@@ -113,7 +113,7 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
 | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
 | **[OpsPulse](https://github.com/uchiha-suraj/OpsPulse)**                              | Production-style incident management dashboard for monitoring service health, coordinating responders, and managing incident timelines with realistic mock APIs and local persistence | React, TypeScript, Vite, MSW, Zod |
 | **[Photo Bucket](https://github.com/uchiha-suraj/photo-bucket-react-sanity)**         | Social media photo-sharing platform with a fully responsive masonry-grid UI, Google auth, and a Sanity-powered CMS/admin panel for CRUD content management | React, Tailwind CSS, Sanity              |
-| **[NextJS + GraphQL Blog](https://github.com/uchiha-suraj/NextJs-GraphQL-blog-site)** | Server-side rendered blogging platform with content fully managed through a Graph CMS panel (posts, categories, comments) via a GraphQL data layer         | Next.js, GraphQL, GraphCMS, Tailwind CSS |
+| **[Seatly](https://github.com/uchiha-suraj/Seatly)** | full-stack event-booking app built around one hard problem: one available seat, hundreds of competing users, exactly one successful booking         | React, Node.js, Express.js, TypeScript, MongoDB |
 
 ---
 
