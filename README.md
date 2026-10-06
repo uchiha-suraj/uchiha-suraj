@@ -138,3 +138,10 @@ Software Engineer building high-performance, user-centric web & mobile apps. Pas
   <a href="https://x.com/theErrorHandler"><img height="55" width="55" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.quora.com/profile/Suraj-1483"><img src="https://img.icons8.com/doodle/50/000000/quora--v1.png"/></a>
 </p>
+
+<!-- <p align="center">
+  <a href="https://github.com/NathanTarbert?tab=repositories"><img src="./assets/stats.svg" alt="GitHub contribution stats" width="720" /></a>
+</p> -->
+<p align="center">
+  <a href="https://github.com/uchiha-suraj?tab=repositories"><img src="./assets/stats.svg" alt="GitHub contribution stats" width="720" /></a>
+</p>
